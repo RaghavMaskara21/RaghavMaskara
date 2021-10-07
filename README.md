@@ -9,7 +9,7 @@
 I am a big-time technology enthusiast and a passionate learner. I generally attempt to learn new things. I'm extremely dynamic via web-based networking media, and attempt to persuade more individuals to join the tech world by indicating what my life resembles in this community.
 
 ## 👩‍💻 My Coding Skills :
-**Languages :**  C/C++, Java, SQL, HTML, CSS, JavaScript, Python 
+**Languages :**  C/C++, Java, HTML, CSS, JavaScript, Python 
 
 **Development Environment :** VS Code 
 
